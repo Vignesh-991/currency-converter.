@@ -23,14 +23,6 @@ It uses the **[Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency
 
 ---
 
-## 📂 Project Structure
-
-├── index.html # Main HTML file
-├── style.css # Styling
-├── app.js # Main JavaScript logic
-├── codes.js # Currency code to country code mapping
----
-
 ## How to Use
 1. Select the source and target currencies.
 2. Enter the amount you want to convert.
